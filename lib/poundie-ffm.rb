@@ -1,3 +1,5 @@
+require 'cgi'
+
 class PoundieFfm < Poundie::Plugin
   register :poundie_ffm
 
